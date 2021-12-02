@@ -8,3 +8,13 @@ Global Data Association : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumb
 
 
 Multi-Object Tracker:https://arxiv.org/pdf/2103.08808.pdf
+
+
+1)	Furnish face detector [Haar classifiers]
+2)	Object Tracker 
+  a.	Research past work [4 each]
+  b.	Brainstorm all of the ideas and algorithms found out in lit review
+  c.	Pick 3 legit ideas, talk to the professor
+3)	We have to find a way to include metrics, how many FPs? How many FNs? Etc. To be able to benchmark
+4)	Latex [Abstract, Introduction, Some equations, algorithms] – share the project with Geli in overleaf
+
