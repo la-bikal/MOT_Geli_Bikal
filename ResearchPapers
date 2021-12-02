@@ -7,7 +7,10 @@ Markov Decision Process: https://bbabenko.github.io/assets/papers/miltrack-pami-
 Global Data Association : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587584
 
 
-Multi-Object Tracker:https://arxiv.org/pdf/2103.08808.pdf
+Possible Multi-Object Trackers:
+
+1) https://arxiv.org/pdf/2103.08808.pdf
+2) https://arxiv.org/pdf/1903.05625.pdf Bells and whistles
 
 
 1)	Furnish face detector [Haar classifiers]
