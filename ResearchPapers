@@ -14,6 +14,7 @@ Possible Multi-Object Trackers:
 3) https://github.com/vivekhsridhar/tracktor/tree/master/tracktor Hungarian Algorithm
 4) https://github.com/nwojke/deep_sort/blob/280b8bdb255f223813ff4a8679f3e1321b08cdfc/deep_sort_app.py#L17 Deep Sort
 
+Hungarian algorithm: https://www.thinkautonomous.ai/blog/?p=hungarian-algorithm 
 
 1)	Furnish face detector [Haar classifiers]
 2)	Object Tracker 
