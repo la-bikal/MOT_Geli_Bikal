@@ -11,6 +11,7 @@ Possible Multi-Object Trackers:
 
 1) https://arxiv.org/pdf/2103.08808.pdf
 2) https://arxiv.org/pdf/1903.05625.pdf Bells and whistles
+3) https://github.com/vivekhsridhar/tracktor/tree/master/tracktor Hungarian Algorithm
 
 
 1)	Furnish face detector [Haar classifiers]
