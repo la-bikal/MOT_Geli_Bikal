@@ -1,6 +1,10 @@
 # Incase you are interested in implementing the background subtraction 
 # you have to install package: opencv-contrib-python
 
+
+# I think it is not useful in our case. 
+
+
 # importing libraries
 import numpy as np
 import cv2
