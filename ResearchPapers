@@ -3,13 +3,13 @@ Trackers : https://learnopencv.com/multitracker-multiple-object-tracking-using-o
 
 Optical Flow LC: https://opencv24-python-tutorials.readthedocs.io/en/latest/py_tutorials/py_video/py_lucas_kanade/py_lucas_kanade.html 
 
-Markov Decision Process: https://bbabenko.github.io/assets/papers/miltrack-pami-final.pdf 
-Global Data Association : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587584
+Markov Decision Process: https://bbabenko.github.io/assets/papers/miltrack-pami-final.pdf  geli
+Global Data Association : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4587584  geli
 
 
 Possible Multi-Object Trackers:
 
-1) https://arxiv.org/pdf/2103.08808.pdf
+1) https://arxiv.org/pdf/2103.08808.pdf   abstract conclusion , a few sentences
 2) https://arxiv.org/pdf/1903.05625.pdf Bells and whistles
 3) https://github.com/vivekhsridhar/tracktor/tree/master/tracktor Hungarian Algorithm
 4) https://github.com/nwojke/deep_sort/blob/280b8bdb255f223813ff4a8679f3e1321b08cdfc/deep_sort_app.py#L17 Deep Sort
