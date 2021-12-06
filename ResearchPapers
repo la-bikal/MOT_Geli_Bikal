@@ -13,6 +13,7 @@ Possible Multi-Object Trackers:
 2) https://arxiv.org/pdf/1903.05625.pdf Bells and whistles
 3) https://github.com/vivekhsridhar/tracktor/tree/master/tracktor Hungarian Algorithm
 4) https://github.com/nwojke/deep_sort/blob/280b8bdb255f223813ff4a8679f3e1321b08cdfc/deep_sort_app.py#L17 Deep Sort
+5) https://link.springer.com/chapter/10.1007/978-3-030-03405-4_27 
 
 Hungarian algorithm: https://www.thinkautonomous.ai/blog/?p=hungarian-algorithm 
 
